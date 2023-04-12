@@ -1,3 +1,9 @@
+dtkcommon (5.6.9) unstable; urgency=medium
+
+  * Release 5.6.9.
+
+ -- Deepin Package Builder <packages@linuxdeepin.com>  Wed, 12 Apr 2023 16:16:59 +0800
+
 dtkcommon (5.6.81) unstable; urgency=medium
 
   * use CMakeLists.txt to build package
